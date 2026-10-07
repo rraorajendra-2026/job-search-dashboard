@@ -1,6 +1,6 @@
 date,company,role,fit_score,remote_india,status,formal_application,email_outreach,response,follow_up_date,rajendra_action,notes
 2026-10-07,JoVE,Senior Director of Customer Success,9/10,Yes,Outreach sent; ATS pending,Pending,Sent,None,,None,"Targeted application email sent; formal ATS submission still to verify"
-2026-10-07,HighLevel,"Director, Customer Growth & Activation",8.5/10,Yes,RED - Rajendra action required,Blocked,None,None,,"Complete required work authorization, OCI, demographic, salary, joining-date and role-specific application answers","Live remote-India role; formal ATS not submitted because required personal attestations cannot be guessed"
-2026-10-07,Resilinc,"Director / Senior Director, Professional Services",7/10,Yes,RED - Rajendra action required,Blocked,None,None,,"Complete required work authorization, prior-company/interview, salary, notice-period and technical experience attestations","Live remote-India role; formal ATS not submitted because required personal and technical attestations cannot be guessed"
+2026-10-07,HighLevel,"Director, Customer Growth & Activation",8.5/10,Yes,Applied,Submitted,None,None,,None,"Formal application submitted by Rajendra"
+2026-10-07,Resilinc,"Director / Senior Director, Professional Services",7/10,Yes,Applied,Submitted,None,None,,None,"Formal application submitted by Rajendra"
 2026-10-07,Kinaxis,"Global Account Director - Customer Success",9/10,Yes,Closed - not accepting applications,Not applied,None,None,,None,"Verified closed before submission"
 2026-10-07,Deltek,Director of Customer Success,9.5/10,Yes,Closed / no longer in current live jobs search,Not applied,None,None,,None,"Previously surfaced listing; not present in Deltek current live careers search at recheck"
