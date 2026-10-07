@@ -1,0 +1,7 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Job Search Dashboard</title><link rel="stylesheet" href="styles.css"></head>
+<body><main><header><div><small>15-DAY JOB SPRINT</small><h1>Job Search Dashboard</h1><p>Applications, outreach, responses and next actions.</p></div><div><label>Date <input id="dateFilter" type="date"></label> <button id="allDates">All dates</button></div></header>
+<section class="cards"><div><span>Opportunities</span><b id="opps">0</b></div><div><span>Formal applications</span><b id="apps">0</b></div><div><span>Emails sent</span><b id="emails">0</b></div><div><span>Responses</span><b id="responses">0</b></div><div><span>Interviews</span><b id="interviews">0</b></div><div><span>Action required</span><b id="actions">0</b></div></section>
+<section class="panel"><h2>Live Pipeline</h2><input id="search" placeholder="Search company or role"><div class="tablewrap"><table><thead><tr><th>Date</th><th>Company</th><th>Role</th><th>Fit</th><th>Status</th><th>Application</th><th>Outreach</th><th>Response</th><th>Next action</th><th>Your action</th></tr></thead><tbody id="rows"></tbody></table></div></section>
+<section class="panel"><h2>Rajendra Action Required</h2><div id="actionList">Nothing required right now.</div></section>
+</main><script src="app.js"></script></body></html>
