@@ -2,7 +2,8 @@
 
 **Goal:** Maximize interviews and secure a strong fully remote senior role within the 15-day sprint.
 
-> Last updated: 8 Oct 2026 · India time
+> Last updated: 8 Nov 2026 · India time
+> Live pipeline source: `data/jobs.csv` · Latest reconciliation: 8 Nov 2026
 
 ## Sprint Scoreboard
 
