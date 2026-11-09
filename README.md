@@ -25,7 +25,7 @@
 |---|---|---:|---|---|---|---|---|
 | Zycus | Country Director - India | 8/10 | 🟡 India hybrid | 🟡 Lead — not applied | — | — | Apply via official ATS; confirm ₹46 LPA+ |
 | IDfy | Senior Director - Customer Success | 8/10 | ❌ On-site per current listing | Excluded pending hybrid confirmation | — | — | Do not apply unless recruiter confirms hybrid and pay |
-| CleverTap | Director - Channel Partnerships | 6/10 | ⚪ Work mode unverified | Lead — not applied | — | — | Confirm work mode, pay and partner-ecosystem fit |
+| CleverTap | Director - Channel Partnerships | 6/10 | ❌ On-site per listing | Excluded pending employer hybrid confirmation | — | — | Do not apply unless hybrid and ₹46 LPA+ confirmed |
 | Starcom | Senior Director - Digital & Performance Marketing | 7/10 | 🟡 Mumbai hybrid per listing | Lead — not applied | — | — | Confirm ₹46 LPA+ and hybrid days; apply via LinkedIn |
 | JoVE | Senior Director of Customer Success | 9/10 | ✅ Remote — India | 🟡 Outreach sent; ATS pending | ✅ Email sent | — | Complete/verify formal ATS application + follow up |
 
@@ -40,7 +40,7 @@
 
 ## Rajendra Action Required
 
-**Apply to Zycus Country Director - India** through the official Talismatic ATS. Upload the latest CV, complete Personal Information and Pre-screening Questions, and confirm compensation of at least ₹46 LPA. CleverTap and Starcom remain conditional until hybrid/remote work and compensation are confirmed.
+**Apply to Zycus Country Director - India** through the official Talismatic ATS. Upload the latest CV, complete Personal Information and Pre-screening Questions, and confirm compensation of at least ₹46 LPA. Starcom remains conditional until compensation is confirmed. CleverTap is excluded unless the employer confirms hybrid/remote work.
 
 ## Compensation and Seniority Filter — Updated 9 Nov 2026
 
@@ -64,7 +64,7 @@
 ## 9 November Report — Verified Work Status
 
 - **Best new lead:** Zycus — Country Director - India. Official Talismatic ATS confirms India (Hybrid), 15–20 years and full India GTM P&L across enterprise sales, marketing and customer success. LinkedIn shows 5 days ago; WorkMundi dates the listing 4 Nov 2026. Employer salary is not disclosed; Jobstore's ₹50–90 LPA estimate is third-party and unverified. Not applied.
-- **Conditional leads:** CleverTap — Director, Channel Partnerships (work mode and compensation unverified; GSI/SI/cloud/ISV ecosystem experience required); Starcom — Senior Director, Digital & Performance Marketing (Mumbai hybrid per listing; posted around 8 Nov; salary undisclosed; strong Meta/Google capability required).
+- **Conditional leads:** CleverTap — Director, Channel Partnerships (Mumbai on-site per HuntYourTribe; employer LinkedIn listing does not state work mode; excluded unless hybrid is confirmed); Starcom — Senior Director, Digital & Performance Marketing (Mumbai hybrid per Weekday; posted around 8 Nov; salary undisclosed; strong Meta/Google capability required).
 - **Gmail:** Folksoft rejected the 2 Nov Head of Sales & Growth application on 9 Nov. Rajendra sent BankIT a follow-up on 9 Nov asking to schedule the interview; no meeting date/time is confirmed.
 - **Activity:** No new ATS submission and no new recruiting email sent. No verified general recruiting email was available for the new leads.
 - **Next:** Apply to Zycus manually via the official ATS, upload the latest CV, complete Personal Information and Pre-screening Questions, and confirm CTC of at least ₹46 LPA. Do not submit CleverTap or Starcom until work mode and pay are confirmed.
